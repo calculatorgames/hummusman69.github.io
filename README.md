@@ -1,4 +1,6 @@
-# bighummus69.github.io
+# hummusman69.github.io
+
+@bighummus69 is my main github
 
 this is my site for my "projects"
 
